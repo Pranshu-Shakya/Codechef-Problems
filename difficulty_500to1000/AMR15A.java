@@ -1,6 +1,5 @@
 // https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A
 import java.util.*;
-import java.io.*;
 
 class AMR15A
 {
